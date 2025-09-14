@@ -30,9 +30,7 @@ DMT — Double My Tank (double your current level; risky near the cap).
 
 First to end a turn in 75–80 wins. If both finish same turn, closest to 77.5 wins.
 
-Example turn (truncated)
-yaml
-Copy code
+Example turne
 Your tank: 42   |   Computer: 37
 Available: [1, 5, 10, SOH, DOT, DMT]
 Choose a card: 10
